@@ -29,4 +29,4 @@ const graph = {
     5: [3, 4]
 };
 
-breadthFirstSearch(graph, 4);
+bfs(graph, 4);
